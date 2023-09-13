@@ -1,7 +1,7 @@
-# Welcome to GBA Emulator
+# Welcome to my (WIP) Coding website!
 
-GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
+This is 100% free, but you can donate at https://www.patreon.com/Vaslini/creators
 
-# GBA Emulator Website
+# Coding tutorial website
 
-https://theclashman2.github.io/GBA-Emulator/
+https://coolmathtutorial.github.io/codingtutorial/
