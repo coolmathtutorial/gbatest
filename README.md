@@ -4,4 +4,4 @@ This is 100% free, but you can donate at https://www.patreon.com/Vaslini/creator
 
 # Coding tutorial website
 
-https://coolmathtutorial.github.io/codingtutorial/
+https://coolmathtutorial.github.io/codingwithvaslini/
