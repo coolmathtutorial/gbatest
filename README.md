@@ -6,3 +6,5 @@ This is my take at updating theclashman2's GBA emulator which has remained untou
 https://coolmathtutorial.github.io/gbatest/
 
 #CURRENTLY BROKEN, FIX WILL BE PUSHED SOON
+
+Original Site:https://coolmathtutorial.github.io/codingwithvaslini/ (disguised as coding site)
