@@ -1,7 +1,8 @@
-# Welcome to my (WIP) Coding website!
+# Welcome to my (WIP) GBA emulator
 
-This is 100% free, but you can donate at https://www.patreon.com/Vaslini/creators
+This is my take at updating theclashman2's GBA emulator which has remained untouched since 2017.
 
-# Coding tutorial website
+#GBA Emulator BETA 
+https://coolmathtutorial.github.io/gbatest/
 
-https://coolmathtutorial.github.io/codingwithvaslini/
+#CURRENTLY BROKEN, FIX WILL BE PUSHED SOON
